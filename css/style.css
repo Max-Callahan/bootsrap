@@ -2,9 +2,20 @@ body{
 	background-color: white;
 }
 h1{
-	width:200px;
+	width:400px;
 	font-family: futura;
 	background-color: red;
 	color: white;
+	margin-left: 450px;
+	text-align:center;
+	margin-top: 300px;
+	font-size: 70px;
 
+}
+p.content{
+	padding: 50px;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	background: grey;
 }
