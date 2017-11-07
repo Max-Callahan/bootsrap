@@ -2,6 +2,7 @@ body{
 	background-color: white;
 }
 h1{
+	font-style: italic;
 	width:400px;
 	font-family: futura;
 	background-color: red;
@@ -9,11 +10,11 @@ h1{
 	margin-left: 450px;
 	text-align:center;
 	margin-top: 300px;
-	font-size: 70px;
+	font-size: 70px
 
 }
 p.content{
-	padding: 50px;
+	padding: 45px;
 	font-size: 32px;
 	font-weight: bold;
 	text-align: center;
