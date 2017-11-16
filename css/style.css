@@ -7,16 +7,27 @@ h1{
 	font-family: futura;
 	background-color: red;
 	color: white;
-	margin-left: 450px;
 	text-align:center;
-	margin-top: 300px;
 	font-size: 70px
 
 }
 p.content{
-	padding: 45px;
-	font-size: 32px;
+	padding:45px;
+	font-size: 15px;
 	font-weight: bold;
 	text-align: center;
-	background: grey;
+	background: white;
+}
+.button-background{
+	
+	min-height: 1000px;	
+	background-image: url("http://eskipaper.com/images/mountain-valley-backgrounds-1.jpg");
+}
+.infoheading{
+	text-decoration: underline;
+	padding:45px;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	background: white;
 }
