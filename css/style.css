@@ -1,14 +1,22 @@
 body{
-	background-color: white;
+	background-color: white
+	background-image:url("http://cdn.historyextra.com/sites/default/files/imagecache/800px_530px/gallery/4638001.jpg");
 }
+a {
+	color:black;
+}
+
 h1{
 	font-style: italic;
 	width:400px;
 	font-family: futura;
-	background-color: red;
+	background-color: #9c4e16;
 	color: white;
 	text-align:center;
-	font-size: 70px
+	font-size: 60px;
+	border-radius:10px;
+	
+
 
 }
 p.content{
@@ -21,7 +29,7 @@ p.content{
 .button-background{
 	
 	min-height: 1000px;	
-	background-image: url("http://eskipaper.com/images/mountain-valley-backgrounds-1.jpg");
+	background-image: url("http://cdn.historyextra.com/sites/default/files/imagecache/800px_530px/gallery/4638001.jpg");
 }
 .infoheading{
 	text-decoration: underline;
@@ -30,4 +38,40 @@ p.content{
 	font-weight: bold;
 	text-align: center;
 	background: white;
+}
+.hist
+{
+	font-family: 'Cinzel', serif;
+	color:black;
+}
+h3
+{	
+
+	background-color: #9c4e16;
+	margin-top: 400px;
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-size: 50px;
+	border-radius:10px;
+
+}
+
+.button
+{
+	margin-bottom
+}
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    font-size: 24px;
+    color:black !important;
+
+    font-family: 'Cinzel', serif;
+}
+.title
+{
+	margin-top:55px;
 }
